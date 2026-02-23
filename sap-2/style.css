@@ -1,0 +1,64 @@
+body{
+
+background-color: white;
+
+}
+
+
+.conteudo-g{
+
+width: 1300px;
+height: 277px;
+background-color: #CFE0F5;
+margin: 10px;
+border-radius: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+display: flex;
+
+
+}
+
+.conteudo-p{
+
+width: 550px;
+height: 277px;
+background-color: #CFE0F5;
+margin: 10px;
+border-radius: 10px;
+
+}
+
+section{
+
+
+display: flex;
+padding: 10px;
+}
+
+#robo{
+
+width: 250px;
+height: 250px;
+}
+
+.texto-intro{
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(5, 52, 204);
+font-size: small;
+
+}
+
+.fale{
+
+position: relative;
+height: 100px;
+margin-top: 20px;
+border-radius: 50px;
+margin-right: 200px;
+
+}
+
