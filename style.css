@@ -1,7 +1,8 @@
 
 
 body{
-
+padding: 0px;
+margin: 0px;
 background-color: white;
 
 
@@ -31,12 +32,6 @@ border-radius: 10px;
 
 }
 
-section{
-
-
-display: flex;
-padding: 10px;
-}
 
 #robo{
 
@@ -193,32 +188,19 @@ padding-left: 20px;
     border-radius: 15px;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #botao {
   padding: 5px;
+  display:flex ;
+  width: 320px;
+  border-top: solid rgb(1, 1, 138);
+  background-color: #d6d6d6 ;
 
 }
 
 #botaocima{
-  padding: 5px
+  padding-top: 5px;
+display: flex;
+  
 }
 
 #colorir{
@@ -237,12 +219,15 @@ padding-left: 20px;
   background-color: #d6d6d6;
 }
 #ladoalado{
+  background-color: #e6e6e6 ;
+  height: 30px;
+  width: 330px;
   gap: 60px;
   display:flex ;
 }
 #tamanho{
-  padding-top: 15px;
   font-size: 14px;
+  padding-left: 20px;
 
 }
 #espaco{
@@ -254,4 +239,10 @@ padding-left: 20px;
 }
 #azul{
   background-color: rgb(95, 115, 231);
+}
+#cinza{
+background-color: #e6e6e6 ;
+}
+#tabela{
+  display: flex;
 }
