@@ -107,9 +107,12 @@ section {
 #botao {
   padding: 5px;
   display: flex;
-  
-
 }
+
+#botaocima{
+  padding: 5px
+}
+
 #colorir{
   padding-top: 15px;
   background: repeating-linear-gradient(45deg,
@@ -123,4 +126,23 @@ section {
   margin-top: 20px;
   padding: 5px;
   background-color: #d6d6d6;
+}
+#ladoalado{
+  gap: 60px;
+  display:flex ;
+}
+#tamanho{
+  padding-top: 15px;
+  font-size: 14px;
+
+}
+#espaco{
+ background-color: #d6d6d6;
+  padding: 13px;
+}
+#cor{
+  background-color:#d6d6d6;
+}
+#azul{
+  background-color: rgb(95, 115, 231);
 }
