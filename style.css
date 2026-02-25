@@ -1,5 +1,6 @@
 body {
-
+  margin: 0px;
+  padding: 0px;
   background-color: white;
 
 }
@@ -104,9 +105,19 @@ section {
 }
 
 #botao {
+  padding: 5px;
   display: flex;
   
 
+}
+#colorir{
+  padding-top: 15px;
+  background: repeating-linear-gradient(45deg,
+  #ffe46e,
+  #ffe46e 15px,
+  rgb(255, 255, 173) 15px,
+  rgb(255, 255, 173) 30px
+  );
 }
 #doc_cima{
   margin-top: 20px;
