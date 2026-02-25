@@ -105,6 +105,11 @@ section {
 
 #botao {
   display: flex;
-  background-color: grey;
+  
 
+}
+#doc_cima{
+  margin-top: 20px;
+  padding: 5px;
+  background-color: #d6d6d6;
 }
