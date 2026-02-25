@@ -105,3 +105,14 @@ color: rgb(5, 52, 204);
 font-size: xx-small;  
 padding-left: 400px;
 }
+#ladoalado{
+  display: flex;
+  background-color: grey;
+  
+}
+.img{
+  height: 100px;
+  width: 100px;
+}
+
+
