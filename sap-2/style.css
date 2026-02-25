@@ -62,10 +62,10 @@ margin-right: 200px;
 
 }
 
-.maistabela{
+#maistabela{
 
 display: flex;
-position: relative;
+position: absolute;
 height: 325px;
 width: 325px;
 top: 1px;
@@ -73,7 +73,35 @@ left: 650px;
 
 }
 
-#material{
+#loja{
 
+display: flex;
+left: 90px;
+position: absolute;
+height: 375px;
+width: 900px;
+top: 295px;
 
+}
+
+.parte2{
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(5, 52, 204);
+font-size: xx-small;
+padding-left: 20px;
+
+}
+
+.part2{
+
+  display: flex;
+flex-direction: column;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(5, 52, 204);
+font-size: xx-small;  
+padding-left: 400px;
 }
