@@ -130,12 +130,11 @@ height: 230px
 
 .texto3{
 
+  font-size: xx-small;
 display: flex;
-flex-direction: column;
-align-items: flex-start;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 color: rgb(5, 52, 204);
-font-size: xx-small;
 padding-left: 20px;
 
 }
+
